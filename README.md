@@ -13,6 +13,6 @@ Can read/write to/from a .txt File.
 ## Running
 
 <img src="https://raw.githubusercontent.com/spykard/8Puzzle-LISP/master/Screenshots/Start.PNG">
-
+...<br/>
 <img src="https://raw.githubusercontent.com/spykard/8Puzzle-LISP/master/Screenshots/RandomRound.PNG">
 
