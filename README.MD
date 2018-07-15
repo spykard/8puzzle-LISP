@@ -2,13 +2,15 @@
 
 The classic 3x3 sliding puzzle Game.
 
-### Current State as a LISP list
+Can read/write to/from a .txt File.
 
-<img src="https://raw.githubusercontent.com/kardakis/8Puzzle-LISP/master/Screenshots/Logic.png">
+## Current State as a LISP list
 
-### Running
+<img src="https://raw.githubusercontent.com/spykard/8Puzzle-LISP/master/Screenshots/Logic.PNG">
+<br/>
+## Running
 
-<img src="https://raw.githubusercontent.com/kardakis/8Puzzle-LISP/master/Screenshots/Start.png">
+<img src="https://raw.githubusercontent.com/spykard/8Puzzle-LISP/master/Screenshots/Start.PNG">
 
-<img src="https://raw.githubusercontent.com/kardakis/8Puzzle-LISP/master/Screenshots/RandomRound.png">
+<img src="https://raw.githubusercontent.com/spykard/8Puzzle-LISP/master/Screenshots/RandomRound.PNG">
 
